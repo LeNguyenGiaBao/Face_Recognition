@@ -2,7 +2,7 @@
 
 ## Using:
 - MTCNN to detect face
-- Inception ResNet to get features
+- Inception ResNet to extract features
 - SVM to classify
 
 ## Storage:

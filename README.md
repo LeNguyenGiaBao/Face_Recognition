@@ -17,5 +17,8 @@
 
 ![UI](https://github.com/LeNguyenGiaBao/Face_Recognition/blob/master/UI.jpg)
 
+## Report
+[Report](https://github.com/LeNguyenGiaBao/Face_Recognition/blob/master/Face_Recognition_Report.pdf)
+
 ## References
-[facenet-pytorch](https://github.com/timesler/facenet-pytorch)
+https://github.com/timesler/facenet-pytorch
